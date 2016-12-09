@@ -132,8 +132,8 @@
     <orderEntry type="library" exported="" name="library-2.4.0" level="project" />
     <orderEntry type="library" exported="" name="imagepipeline-base-0.12.0" level="project" />
     <orderEntry type="library" exported="" name="rxjava-1.1.6" level="project" />
-    <orderEntry type="library" exported="" name="gson-2.7" level="project" />
     <orderEntry type="library" exported="" name="retrofit-2.1.0" level="project" />
+    <orderEntry type="library" exported="" name="gson-2.7" level="project" />
     <orderEntry type="library" exported="" name="adapter-rxjava-2.1.0" level="project" />
     <orderEntry type="library" exported="" name="converter-gson-2.1.0" level="project" />
     <orderEntry type="library" exported="" name="rxandroid-1.2.1" level="project" />
